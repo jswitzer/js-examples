@@ -1,0 +1,15 @@
+{
+  "name": "@jswitzer/leftpad",
+  "version": "1.0.0",
+  "description": "leftpads",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "Jim Switzer",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}

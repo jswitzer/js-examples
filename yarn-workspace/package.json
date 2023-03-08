@@ -1,0 +1,7 @@
+{
+  "name": "@jswitzer/ex-workspace",
+  "workspaces": [
+    "cmd/formatname",
+    "lib/leftpad"
+  ]
+}

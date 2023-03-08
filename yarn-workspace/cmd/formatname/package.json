@@ -1,0 +1,18 @@
+{
+  "name": "@jswitzer/formatname",
+  "version": "1.0.0",
+  "description": "Print out formatted name",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "jswitzer",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@jswitzer/leftpad": "1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
